@@ -1,0 +1,19 @@
+{
+  "name": "week-2-online-onramp",
+  "version": "1.0.0",
+  "description": "The tasks given to you in the algorithms and frontend folders are to test how much you know about designing web pages with HTML, CSS and JavaScript and solving problems with JavaScript. The duration for the challenge is 3 days.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidOdewusi/week-2-online-onramp.git"
+  },
+  "author": "David Odewusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidOdewusi/week-2-online-onramp/issues"
+  },
+  "homepage": "https://github.com/DavidOdewusi/week-2-online-onramp#readme"
+}
